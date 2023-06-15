@@ -17,4 +17,4 @@ Applications :-
 
 2) Search in Bitonic Array - O(lg N)
 
-3) Optimized Three sum - O(n ^ 2)
+3) Optimized Three sum - O(n ^ 2) :- Here I used two pointers which replace third for loop from code by which time gets reduced from n ^ 3 to n ^ 2

@@ -1,4 +1,4 @@
-package Union_Find;
+package Three_sum_Optimized;
 
 import java.util.Arrays;
 

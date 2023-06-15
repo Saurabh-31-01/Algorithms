@@ -1,4 +1,4 @@
-package Union_Find;
+package Bitonic_Array;
 
 import java.util.Arrays;
 

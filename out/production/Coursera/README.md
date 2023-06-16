@@ -1,7 +1,7 @@
 # Algorithms
 
-Currently added Union-find which i used in dynamic connectiviy
-
+1) Union-find which i used in dynamic connectiviy :- best algo for it is Weighted quick union path compression 
+                                                  O(N + M lg * N) { M union - find operations on a set of N objects}
 Applications :- 
   Percolation.
 ・Games (Go, Hex).
@@ -14,3 +14,7 @@ Applications :-
 ・Compiling equivalence statements in Fortran.
 ・Morphological attribute openings and closings.
 ・Matlab's bwlabel() function in image processing
+
+2) Search in Bitonic Array - O(lg N)
+
+3) Optimized Three sum - O(n ^ 2) :- Here I used two pointers which replace third for loop from code by which time gets reduced from n ^ 3 to n ^ 2
